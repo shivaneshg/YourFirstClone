@@ -1,5 +1,6 @@
 # Introduction of Feature engineer 1
-(Enter your text from line 3 onwards) 
+hello I am Shivanesh G, 
+currently pursuing btech in artificial inteeligence and data science
 
 
 
