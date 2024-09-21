@@ -1,6 +1,6 @@
 # Introduction of Feature engineer 1
 hello I am Shivanesh G, 
-currently pursuing btech in artificial inteeligence and data science
+currently pursuing btech in artificial intelligence and data science
 
 
 
