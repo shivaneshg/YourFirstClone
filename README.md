@@ -6,9 +6,9 @@ currently pursuing btech in artificial inteeligence and data science
 
 
 # Introduction of Feature engineer 2 
-(Enter your text from line 9 onwards)
+
 We are sitting in F1 and F2 lab from morning.
-Attending wgit workshop on git and github. 
+Attending workshop on git and github. 
 
 
 # General content
