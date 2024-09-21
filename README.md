@@ -1,6 +1,6 @@
 # Introduction of Feature engineer 1
-hello I am Shivanesh G, 
-currently pursuing btech in artificial inteeligence and data science
+(Enter your text from line 3 onwards) 
+
 
 
 
@@ -10,9 +10,8 @@ currently pursuing btech in artificial inteeligence and data science
 
 
 
-
 # General content
-(All the teammates are requested to enter your text strictly in line 15 only)
+Hello HI everyone Im Vijay ,CEO of FUSION X ,our CFO is Mr Sarvesh,Our CTO is Mr Shivanesh.
 
 
 
